@@ -1,0 +1,10 @@
+PatientId,healed,Hospitalclass,Name,Sex,Age
+22,0,3,"Thomas, Mr. John",male,34
+23,0,3,"Wiliam, Mrs. Jeny",female,47
+24,0,2,"Winter, Mr. Thomas",male,62
+25,0,3,"Paul, Mr. Fred",male,27
+26,0,3,"Smith, Mrs. Sara",female,22
+27,0,3,"Solomon, Mr. Johanatan",male,14
+28,0,3,"Stark, Miss. Katy",female,30
+29,0,2,"Stamp, Mr. Tim",male,26
+30,0,3,"Odel, Mrs. Mary",female,18
